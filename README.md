@@ -18,15 +18,4 @@ A Python-based web scraper that extracts 2500+ business listings from the Listif
 - BeautifulSoup
 - Requests
 
-## 🚀 How to Run
 
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/listif-india-business-scraper.git
-cd listif-india-business-scraper
-
-2. Install dependencies:
-pip install -r requirements.txt
-
-3.Run the scraper:
-python scraper.py
